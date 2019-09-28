@@ -2244,7 +2244,8 @@ ul {
 /* line 18, E:/169 Dingo Restaurant/169 Dingo Restaurant/169_Dingo_Restautent_html/sass/_menu.scss */
 .main_menu .navbar {
   padding: 22px 0px;
-}
+  background-color: green
+ }
 
 /* line 21, E:/169 Dingo Restaurant/169 Dingo Restaurant/169_Dingo_Restautent_html/sass/_menu.scss */
 .main_menu .main-menu-item {
